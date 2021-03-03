@@ -12,7 +12,7 @@ spring:
     host: 192.168.64.140   # wht6.cn
     username: admin
     password: admin
-
+#application.yml 添加 solr 连接信息
   elasticsearch:
     rest:
       uris: http://192.168.64.150:9200

@@ -20,6 +20,8 @@ import org.springframework.data.elasticsearch.annotations.Field;
 "created": "2017-01-11 13:10:07",
 "updated": "2017-01-11 13:09:32"
  */
+
+//Item 实体类
 @Document(indexName = "pditems")
 @Data
 @NoArgsConstructor
