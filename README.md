@@ -64,7 +64,7 @@ Spring Cloud + RabbitMQ + Docker + MyBatis + MySQL +  Elasticsearch + K8S
 
 5. 创建SearchService及其实现类
 
-6. 添加SearchController，完成数据的封装和响应
+6. 添加SearchController，完成数据的封装和响应.
 
 
 
